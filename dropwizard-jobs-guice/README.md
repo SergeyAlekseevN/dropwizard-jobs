@@ -33,7 +33,7 @@ After installing the plugin locally, include the following dependencies only:
 <dependency>
   <groupId>de.spinscale.dropwizard</groupId>
   <artifactId>dropwizard-jobs-guice</artifactId>
-  <version><current version></version>
+  <version>${dropwizard-jobs-guice.version}</version>
 </dependency>
 <dependency>
   <groupId>com.hubspot.dropwizard</groupId>
