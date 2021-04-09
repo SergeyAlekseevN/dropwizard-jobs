@@ -17,7 +17,7 @@
         <dropwizard.version>1.0.6</dropwizard.version>
         <spring.version>4.3.6.RELEASE</spring.version>
         <guice.version>4.1.0</guice.version>
-        <quartz.version>2.2.3</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
     </properties>
 
     <developers>
